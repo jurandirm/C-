@@ -1,1 +1,3 @@
-# C-
+# C#
+
+Repositório de estudos
