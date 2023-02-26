@@ -13,7 +13,7 @@ public class Usuario
 
         public string? ObterLogin()
         {
-            string[] emailSplit = Email.Split('@');
+            string[] emailSplit = Email!.Split('@');
             //Console.WriteLine(emailSplit[0]);
             return "Olá " + Nome + " seu login de rede é: " + emailSplit[0];
         }
