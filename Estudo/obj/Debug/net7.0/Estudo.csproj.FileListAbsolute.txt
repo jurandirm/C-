@@ -1,0 +1,15 @@
+D:\github\C#\Estudo\bin\Debug\net7.0\Estudo.exe
+D:\github\C#\Estudo\bin\Debug\net7.0\Estudo.deps.json
+D:\github\C#\Estudo\bin\Debug\net7.0\Estudo.runtimeconfig.json
+D:\github\C#\Estudo\bin\Debug\net7.0\Estudo.dll
+D:\github\C#\Estudo\bin\Debug\net7.0\Estudo.pdb
+D:\github\C#\Estudo\obj\Debug\net7.0\Estudo.csproj.AssemblyReference.cache
+D:\github\C#\Estudo\obj\Debug\net7.0\Estudo.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\C#\Estudo\obj\Debug\net7.0\Estudo.AssemblyInfoInputs.cache
+D:\github\C#\Estudo\obj\Debug\net7.0\Estudo.AssemblyInfo.cs
+D:\github\C#\Estudo\obj\Debug\net7.0\Estudo.csproj.CoreCompileInputs.cache
+D:\github\C#\Estudo\obj\Debug\net7.0\Estudo.dll
+D:\github\C#\Estudo\obj\Debug\net7.0\refint\Estudo.dll
+D:\github\C#\Estudo\obj\Debug\net7.0\Estudo.pdb
+D:\github\C#\Estudo\obj\Debug\net7.0\Estudo.genruntimeconfig.cache
+D:\github\C#\Estudo\obj\Debug\net7.0\ref\Estudo.dll
